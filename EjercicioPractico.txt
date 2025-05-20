@@ -8,6 +8,11 @@ Un producto de software genérico es desarrollado para venderse en el mercado ge
 -Confiabilidad: El software debe ser confiable, es decir, en caso de fallas o errores que estos no cuesten pérdidas económicas o físicas.
 -Eficiencia: El software debe de hacer el uso adecuado de los recursos del sistema, de forma que se aprovechen al máximo cada uno de los componentes y herramientas.
 -Aceptabilidad: El software debe de ser aceptable para el usuario, es decir, debe cumplir con los requisitos del cliente además de ser compatible con otros sistemas operativos del cliente 
+Atributos adicionales para productors especificos:
+- Seguridad
+- Capacidad de respuesta
+- Portabilidad
+- Escabilidad: 
 
 3. Analice por qué los costos de pruebas de software son particularmente altos en productos genéricos destinados a un mercado amplio y cómo esto influye en su desarrollo.
 
