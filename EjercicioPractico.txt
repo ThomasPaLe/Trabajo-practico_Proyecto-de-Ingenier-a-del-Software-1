@@ -1,1 +1,10 @@
+4. Reflexione sobre la ética involucrada en el desarrollo de sistemas de vigilancia
+que rastrean las acciones de los ciudadanos para combatir el terrorismo.
+Discuta las implicaciones sobre la privacidad.
 
+Respuesta: Los sistemas de vigilancia los cuales rastrean las acciones de los ciudadanos para combatir el terrorismo tienen ventajas y desventajas.
+Por un lado tenemos los beneficios: Prevenir ataques de terrorismo, y dependiendo de su eficacia, podria identificar diferentes amenazas antes de que ocurran.
+Cuando se habla de seguridad, siempre es mejor tenerla y por eso los sistemas de vigilancia entran en juego.
+Este sistema tiene varias desventajas, como lo es la clara pérdida de privacidad que sería necesaria para que el sistema funcione efectivamente, las posibles falsas alarmas o abusos de hackers
+
+En conclusión, puede funcionar en las buenas manos, lamentablemente entra en papel la honestidad de las entidades que hagan los sistemas de vigilancia y depende que tan leve sea la falta de privacidad, que pueda llegar a un punto en el que la vigilancia constante genera autocensura/libertad de expresión.
