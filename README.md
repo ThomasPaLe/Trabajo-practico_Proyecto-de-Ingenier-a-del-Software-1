@@ -1,0 +1,21 @@
+Analice por qué los costos de pruebas de software son particularmente altos
+en productos genéricos destinados a un mercado amplio y cómo esto influye
+en su desarrollo.
+
+ Los costos de pruebas de sotware son evaluados en productos genreicos de mercado masivo debido a la necisidad de prubas exhativas para aseguara compitibilidad con una amplia gama de dispositivos
+ Factores que influyen en los altos costos de las pruebas.
+Diversidad del mercado:
+Los productos genéricos se dirigen a un público amplio con diferentes dispositivos, sistemas operativos, niveles de configuración y conexiones de red. Las pruebas deben cubrir todas estas variantes para asegurar que el software funcione correctamente en la mayoría de los casos. 
+
+Complejidad del software:
+Los productos genéricos suelen tener una funcionalidad compleja, que requiere pruebas rigurosas para identificar errores y garantizar su funcionamiento correcto. 
+
+Necesidad de pruebas exhaustivas:
+La naturaleza genérica del producto implica que es probable que sea utilizado por un amplio espectro de usuarios con diferentes niveles de conocimientos técnicos. Las pruebas deben ser exhaustivas para garantizar una experiencia de usuario positiva y minimizar la posibilidad de errores o problemas.
+
+Implementación de pruebas automatizadas:
+las pruebas automatizadas pueden reducir la carga de trabajo de los testers, el costo de desarrollar y mantener estas pruebas también pueden ser elevados. 
+
+Mayor necesidad de pruebas de usabilidad:
+Debido a que los productos genéricos suelen ser utilizados por una amplia gama de usuarios, la usabilidad se vuelve un factor crítico.
+ 
