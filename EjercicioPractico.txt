@@ -1,5 +1,14 @@
+1. Explique las principales diferencias entre un producto de software genérico y un software personalizado, destacando sus implicaciones en la gestión y el desarrollo.
+Un producto de software genérico es desarrollado para venderse en el mercado general, con especificaciones definidas por la empresa que lo crea, mientras que un software personalizado es creado a medida para un cliente específico, quien define los requisitos del sistema. Esto implica que, en el desarrollo genérico, se busca satisfacer necesidades comunes y se priorizan pruebas extensas para asegurar compatibilidad, mientras que en el desarrollo personalizado se requiere una gestión más estricta del proyecto y mayor interacción con el cliente. Además, el software genérico tiende a evolucionar en nuevas versiones, mientras que el personalizado requiere mantenimiento adaptado a largo plazo. Estas diferencias afectan directamente la forma en que se planifica, desarrolla y mantiene cada tipo de software.
 
-Analice por qué los costos de pruebas de software son particularmente altos en productos genéricos destinados a un mercado amplio y cómo esto influye en su desarrollo.
+2. Describa los cuatro atributos importantes que debe tener todo producto de software. Sugiera además cuatro atributos adicionales que podrían ser significativos para productos específicos.
+
+-Mantenibilidad: El software debe de estar estructurado de forma tal que este pueda evolucionar para poder satisfacer las necesidades y gusto del cliente. Esto debe incluir corregir errores, mejorar el rendimiento a adaptarlo a un entorno nuevo.
+-Confiabilidad: El software debe ser confiable, es decir, en caso de fallas o errores que estos no cuesten pérdidas económicas o físicas.
+-Eficiencia: El software debe de hacer el uso adecuado de los recursos del sistema, de forma que se aprovechen al máximo cada uno de los componentes y herramientas.
+-Aceptabilidad: El software debe de ser aceptable para el usuario, es decir, debe cumplir con los requisitos del cliente además de ser compatible con otros sistemas operativos del cliente 
+
+3. Analice por qué los costos de pruebas de software son particularmente altos en productos genéricos destinados a un mercado amplio y cómo esto influye en su desarrollo.
 
 Los costos de pruebas de sotware son evaluados en productos genreicos de mercado masivo debido a la necisidad de prubas exhativas para aseguara compitibilidad con una amplia gama de dispositivos Factores que influyen en los altos costos de las pruebas. Diversidad del mercado: Los productos genéricos se dirigen a un público amplio con diferentes dispositivos, sistemas operativos, niveles de configuración y conexiones de red. Las pruebas deben cubrir todas estas variantes para asegurar que el software funcione correctamente en la mayoría de los casos.
 
@@ -11,20 +20,12 @@ Implementación de pruebas automatizadas: las pruebas automatizadas pueden reduc
 
 Mayor necesidad de pruebas de usabilidad: Debido a que los productos genéricos suelen ser utilizados por una amplia gama de usuarios, la usabilidad se vuelve un factor crítico.
 
-2. Describa los cuatro atributos importantes que debe tener todo producto de software. Sugiera además cuatro atributos adicionales que podrían ser significativos para productos específicos.
-Mantenibilidad: El software debe de estar estructurado de forma tal que este pueda evolucionar para poder satisfacer las necesidades y gusto del cliente. Esto debe incluir corregir errores, mejorar el rendimiento a adaptarlo a un entorno nuevo.
-Confiabilidad: El software debe ser confiable, es decir, en caso de fallas o errores que estos no cuesten pérdidas económicas o físicas.
-Eficiencia: El software debe de hacer el uso adecuado de los recursos del sistema, de forma que se aprovechen al máximo cada uno de los componentes y herramientas.
-Aceptabilidad: El software debe de ser aceptable para el usuario, es decir, debe cumplir con los requisitos del cliente además de ser compatible con otros sistemas operativos del cliente 
-Explique las principales diferencias entre un producto de software genérico y un software personalizado, destacando sus implicaciones en la gestión y el desarrollo.
-Un producto de software genérico es desarrollado para venderse en el mercado general, con especificaciones definidas por la empresa que lo crea, mientras que un software personalizado es creado a medida para un cliente específico, quien define los requisitos del sistema. Esto implica que, en el desarrollo genérico, se busca satisfacer necesidades comunes y se priorizan pruebas extensas para asegurar compatibilidad, mientras que en el desarrollo personalizado se requiere una gestión más estricta del proyecto y mayor interacción con el cliente. Además, el software genérico tiende a evolucionar en nuevas versiones, mientras que el personalizado requiere mantenimiento adaptado a largo plazo. Estas diferencias afectan directamente la forma en que se planifica, desarrolla y mantiene cada tipo de software.
-
-
 
 4. Reflexione sobre la ética involucrada en el desarrollo de sistemas de vigilancia
 que rastrean las acciones de los ciudadanos para combatir el terrorismo.
 Discuta las implicaciones sobre la privacidad.
-Respuesta: Los sistemas de vigilancia los cuales rastrean las acciones de los ciudadanos para combatir el terrorismo tienen ventajas y desventajas.
+
+Los sistemas de vigilancia los cuales rastrean las acciones de los ciudadanos para combatir el terrorismo tienen ventajas y desventajas.
 Por un lado tenemos los beneficios: Prevenir ataques de terrorismo, y dependiendo de su eficacia, podria identificar diferentes amenazas antes de que ocurran.
 Cuando se habla de seguridad, siempre es mejor tenerla y por eso los sistemas de vigilancia entran en juego.
 Este sistema tiene varias desventajas, como lo es la clara pérdida de privacidad que sería necesaria para que el sistema funcione efectivamente, las posibles falsas alarmas o abusos de hackers
