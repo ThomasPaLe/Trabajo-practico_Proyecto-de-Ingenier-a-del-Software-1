@@ -1,4 +1,5 @@
 1. Explique las principales diferencias entre un producto de software genérico y un software personalizado, destacando sus implicaciones en la gestión y el desarrollo.
+
 Un producto de software genérico es desarrollado para venderse en el mercado general, con especificaciones definidas por la empresa que lo crea, mientras que un software personalizado es creado a medida para un cliente específico, quien define los requisitos del sistema. Esto implica que, en el desarrollo genérico, se busca satisfacer necesidades comunes y se priorizan pruebas extensas para asegurar compatibilidad, mientras que en el desarrollo personalizado se requiere una gestión más estricta del proyecto y mayor interacción con el cliente. Además, el software genérico tiende a evolucionar en nuevas versiones, mientras que el personalizado requiere mantenimiento adaptado a largo plazo. Estas diferencias afectan directamente la forma en que se planifica, desarrolla y mantiene cada tipo de software.
 
 2. Describa los cuatro atributos importantes que debe tener todo producto de software. Sugiera además cuatro atributos adicionales que podrían ser significativos para productos específicos.
@@ -11,19 +12,13 @@ Un producto de software genérico es desarrollado para venderse en el mercado ge
 3. Analice por qué los costos de pruebas de software son particularmente altos en productos genéricos destinados a un mercado amplio y cómo esto influye en su desarrollo.
 
 Los costos de pruebas de sotware son evaluados en productos genreicos de mercado masivo debido a la necisidad de prubas exhativas para aseguara compitibilidad con una amplia gama de dispositivos Factores que influyen en los altos costos de las pruebas. Diversidad del mercado: Los productos genéricos se dirigen a un público amplio con diferentes dispositivos, sistemas operativos, niveles de configuración y conexiones de red. Las pruebas deben cubrir todas estas variantes para asegurar que el software funcione correctamente en la mayoría de los casos.
-
 Complejidad del software: Los productos genéricos suelen tener una funcionalidad compleja, que requiere pruebas rigurosas para identificar errores y garantizar su funcionamiento correcto.
-
 Necesidad de pruebas exhaustivas: La naturaleza genérica del producto implica que es probable que sea utilizado por un amplio espectro de usuarios con diferentes niveles de conocimientos técnicos. Las pruebas deben ser exhaustivas para garantizar una experiencia de usuario positiva y minimizar la posibilidad de errores o problemas.
-
 Implementación de pruebas automatizadas: las pruebas automatizadas pueden reducir la carga de trabajo de los testers, el costo de desarrollar y mantener estas pruebas también pueden ser elevados.
-
 Mayor necesidad de pruebas de usabilidad: Debido a que los productos genéricos suelen ser utilizados por una amplia gama de usuarios, la usabilidad se vuelve un factor crítico.
 
 
-4. Reflexione sobre la ética involucrada en el desarrollo de sistemas de vigilancia
-que rastrean las acciones de los ciudadanos para combatir el terrorismo.
-Discuta las implicaciones sobre la privacidad.
+4. Reflexione sobre la ética involucrada en el desarrollo de sistemas de vigilancia que rastrean las acciones de los ciudadanos para combatir el terrorismo. Discuta las implicaciones sobre la privacidad.
 
 Los sistemas de vigilancia los cuales rastrean las acciones de los ciudadanos para combatir el terrorismo tienen ventajas y desventajas.
 Por un lado tenemos los beneficios: Prevenir ataques de terrorismo, y dependiendo de su eficacia, podria identificar diferentes amenazas antes de que ocurran.
